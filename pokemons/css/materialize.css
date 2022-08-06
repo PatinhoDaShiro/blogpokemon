@@ -36,3 +36,14 @@ footer{
     font-size: calc(2em);
 
 }
+#postagensF h2{
+border-bottom: 1px solid black;
+padding-bottom: 0.5vh;
+margin-top: 0.5vh;
+margin-bottom: 1.3vh;
+   color: red;
+
+}
+#postagensF h2:hover{
+    color: green;
+}
